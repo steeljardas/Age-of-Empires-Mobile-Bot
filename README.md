@@ -226,4 +226,4 @@ Memberships:
 https://godlikebots.com/memberships/
 
 Discord:
-https://discord.gg/juz5uJZKPA
+https://discord.gg/zfNJsbP2tF
